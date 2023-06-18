@@ -20,3 +20,9 @@ These are my solutions for CS50's Introduction to Programming with Python 2022.
 - [Week 4](https://github.com/Sajith-Madhusankha/CS50p-Problem-Sets/tree/main/Week%204)
 
 - [Week 5](https://github.com/Sajith-Madhusankha/CS50p-Problem-Sets/tree/main/Week%205)
+
+- [Week 6](https://github.com/Sajith-Madhusankha/CS50p-Problem-Sets/tree/main/Week%206)
+
+- [Week 7](https://github.com/Sajith-Madhusankha/CS50p-Problem-Sets/tree/main/Week%207)
+
+- [Week 8](https://github.com/Sajith-Madhusankha/CS50p-Problem-Sets/tree/main/Week%208)
